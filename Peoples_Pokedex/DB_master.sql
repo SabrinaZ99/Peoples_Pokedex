@@ -1,0 +1,2 @@
+CREATE DATABASE Peoples_Pokedex
+GO
